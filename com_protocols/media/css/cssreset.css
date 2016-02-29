@@ -1,0 +1,18 @@
+/*this should ovveride stupid joomla template css settings*/
+.col-sm-2 select{
+    width:80px !important;
+}
+
+.col-sm-3 input[type="month"]{
+    height: 30px !important;
+    width: 170px !important;
+}
+
+.col-sm-3 input[type="text"]{
+    height: 30px !important;
+    width: 170px !important;
+}
+
+.col-sm-3 .btn{
+    margin-top: -4px !important;
+}
